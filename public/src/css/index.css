@@ -23,6 +23,11 @@ body {
   padding: 15px;
   border-radius: 5px;
 }
+@media(max-width: 600px){
+    #quote-box{
+        margin: 0px 15px 0px 15px;
+    }
+}
 #text {
   text-align: center;
   font-family: Roboto;
