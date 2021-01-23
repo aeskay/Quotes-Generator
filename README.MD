@@ -1,7 +1,5 @@
-# A simple example PWA
-This project was built as part of a YouTube video on [https://youtube.com/c/academind](https://youtube.com/c/academind).
+Quotes Generator is a Progressive Web App (PWA). It generates quotes in a beautiful way and layout, depending on your selected category.
 
-# Usage
-Run `npm install` (you need [Node.js](https://nodejs.org) for that) to install the development server which will serve the `public` folder.
+It also allows you to share the quotes and post on social media!
 
-Once that command finished, start the server via `npm start` and view the app at [localhost:8081](http://localhost:8081)
+Check it out - https://aeskay.github.io/Quotes-Generator/public/
